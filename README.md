@@ -1,14 +1,13 @@
 ![myoctocat_menor](https://github.com/ludmilanascy/ludmilanascy/assets/161378423/3f2e86c6-eda0-488d-944f-981971ea108d)
 
  # 👩🏻‍💻Ludmila Nascy
-- 🦄 Pronouns: She/Her
-- 🔍 I’m interested in games and data analysis
-- 👾 I’m currently learning programming for games with Godot.
-
+- 🦄 Pronomes: Ela/ Dela
+- 🔍 Interessada em games e data analysis
+- 👾 Atualmente aprendendo Como criar jogos com a Godot.
   
 ## 💜 Sobre mim
 Designer Gráfica e Ilustradora autônoma em transição de carreira para a área da tecnologia. 
-Atualmente dedicadando-me a estudos de desenvolvimento de jogos digitais, porém podem surgir outros tipos de projetos estudantis.
+Atualmente dedicando-me a estudos de desenvolvimento de jogos digitais, porém podem surgir outros tipos de projetos estudantis.
 
 
 
